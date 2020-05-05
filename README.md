@@ -1,2 +1,2 @@
 # CreateEnctab
- Coed to create the encrytion table generation executable
+ Source code to create the encrytion table generation executable
